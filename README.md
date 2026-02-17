@@ -1,3 +1,9 @@
+# 📸 Project Screenshot
+
+<p align="center">
+  <img src="Screenshot 2026-02-17 223706.png" width="900"/>
+</p>
+
 # 🚀 AI Code Explainer
 
 AI Code Explainer is a web-based application that explains programming code in simple and beginner-friendly terms using a Local Large Language Model (LLM).
