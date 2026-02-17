@@ -66,8 +66,9 @@ Version Control:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
+```
 ai_code_explainer/
 │
 ├── backend/
@@ -79,12 +80,12 @@ ai_code_explainer/
 │   └── frontend/
 │       ├── src/
 │       ├── public/
-│       ├── package.json
+│       └── package.json
 │
 ├── .gitignore
 └── README.md
+```
 
----
 
 # ⚙️ Installation Guide
 
